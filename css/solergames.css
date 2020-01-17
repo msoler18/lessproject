@@ -1,5 +1,5 @@
 * {
-  box-sizing: boder-box;
+  box-sizing: border-box;
 }
 body {
   margin: 0;
@@ -36,7 +36,7 @@ h3 {
   left: 0;
   right: 0;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 .intro__categoria {
   font-family: 'Oswald', sans-serif;
