@@ -89,3 +89,14 @@ h3 {
 .articulo h3 {
   color: #8841da;
 }
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+}
+.contenedor__caja {
+  padding: 5%;
+  box-shadow: 0px 5px 15px 0px rgba(136, 65, 218, 0.5);
+}
+.contenedor__caja-contenido {
+  padding: 25px;
+}
